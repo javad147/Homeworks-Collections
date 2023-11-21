@@ -1,0 +1,14 @@
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\bin\Debug\net6.0\PhoneAPP1.exe
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\bin\Debug\net6.0\PhoneAPP1.deps.json
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\bin\Debug\net6.0\PhoneAPP1.runtimeconfig.json
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\bin\Debug\net6.0\PhoneAPP1.dll
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\bin\Debug\net6.0\PhoneAPP1.pdb
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.AssemblyInfoInputs.cache
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.AssemblyInfo.cs
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.csproj.CoreCompileInputs.cache
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.dll
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\refint\PhoneAPP1.dll
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.pdb
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\PhoneAPP1.genruntimeconfig.cache
+C:\Users\Zaur\source\repos\PhoneAPP1\PhoneAPP1\obj\Debug\net6.0\ref\PhoneAPP1.dll
